@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0867-8571
+
+ Directory of C:\Users\mamta\Desktop\MyGitProject
+
+03-06-2021  10:50    <DIR>          .
+03-06-2021  10:50    <DIR>          ..
+03-06-2021  10:50                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  59,058,110,464 bytes free
